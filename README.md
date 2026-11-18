@@ -1,4 +1,4 @@
-### Ansh — Electronics Engineer
+## Ansh — Electronics Engineer
 
 **Electronics | ECE | Hardware Design & Research**
 
