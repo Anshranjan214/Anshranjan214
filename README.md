@@ -17,5 +17,3 @@
 
 📫 **Reach me:** [**anshkumar357@gmail.com**](mailto:anshkummar357@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/ansh-ranjan-633a3a218)
 
-
-⭐ Interested in learning, building innovative projects, and collaborating on engineering solutions.
